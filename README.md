@@ -1,6 +1,6 @@
 # UniNews
 
-🌐 UniNews – A React web app that verifies the credibility of news articles using text or URL input. Leveraging free AI-powered APIs, UniNews analyzes and scores news for authenticity, bias, and trust, helping users identify reliable information quickly.[web:1]
+🌐 UniNews – A React web app that verifies the credibility of news articles using text or URL input. Leveraging free AI-powered APIs, UniNews analyzes and scores news for authenticity, bias, and trust, helping users identify reliable information quickly.
 
 # Features
 
@@ -13,7 +13,7 @@
 7. Instant link preview and news text analysis
 8. Loading spinners and result animations
 9. Share screened articles easily
-10. Works on all device sizes[web:1]
+10. Works on all device sizes
 
 # Tech Stack
 
@@ -97,7 +97,7 @@ UniNews/
 1. Add browser extension support
 2. Multi-language news verification
 3. Save credibility history locally
-4. Integrate community-driven flagging[web:1]
+4. Integrate community-driven flagging
 
 # Contributing
 
@@ -106,9 +106,10 @@ Fork, open issues, or submit pull requests.
 
 # License
 
-This project is licensed under MIT License – free to use and modify.[web:1]
+This project is licensed under MIT License – free to use and modify.
 
 ## 💬 Connect with Me
 
 👨‍💻 **Mohit Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohitkumar368)[web:2]
+🔗 [LinkedIn](https://www.linkedin.com/in/mohitkumar368)
+
